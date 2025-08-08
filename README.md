@@ -1,4 +1,4 @@
-# Landing Page UI Design – Figma Prototype
+# Food Order - Landing Page UI Design – Figma Prototype
 
 This repository showcases a user interface prototype for a food-themed landing page designed in Figma. The concept focuses on a clean and visually engaging layout for a fictional brand, **Eco Food Stuff**, aimed at promoting healthy and sustainable food options.
 
